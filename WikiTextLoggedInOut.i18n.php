@@ -465,8 +465,9 @@ $messages['zh-hans'] = array(
 
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Alexsh
+ * @author Mark85296341
  */
 $messages['zh-hant'] = array(
-	'wikitextloggedinout-desc' => '使用<code>&lt;loggedin&gt;</code> 與 <code>&lt;loggedout&gt;</code>這兩個解析掛鉤，就可以根據用戶登錄的狀態顯示不同的文字',
+	'wikitextloggedinout-desc' => '使用<code>&lt;loggedin&gt;</code> 與 <code>&lt;loggedout&gt;</code>這兩個解析掛鉤，就可以根據使用者登入的狀態顯示不同的文字',
 );
 

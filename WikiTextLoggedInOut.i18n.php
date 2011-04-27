@@ -356,6 +356,13 @@ $messages['sk'] = array(
 	'wikitextloggedinout-desc' => 'Dva prípojné body syntaktického analyzátora, <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code> na zobrazenie odlišného textu v závslosti na stave prihlásenia používateľa',
 );
 
+/** Slovenian (Slovenščina)
+ * @author Dbc334
+ */
+$messages['sl'] = array(
+	'wikitextloggedinout-desc' => 'Dve funkciji razčlenjevalnika, <code>&lt;loggedin&gt;</code> in <code>&lt;loggedout&gt;</code>, za prikazovanje različnega besedila glede na uporabnikovo prijavno stanje',
+);
+
 /** Lower Silesian (Schläsch)
  * @author Jonny84
  */

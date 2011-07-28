@@ -257,6 +257,13 @@ $messages['mk'] = array(
 	'wikitextloggedinout-desc' => 'Две варијанти на парсирање, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code> за приказ на различен текст зависно од тоа дали е најавен корисникот',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'wikitextloggedinout-desc' => 'Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna',
+);
+
 /** Nedersaksisch (Nedersaksisch)
  * @author Servien
  */

@@ -268,7 +268,7 @@ $messages['ms'] = array(
  * @author Servien
  */
 $messages['nds-nl'] = array(
-	'wikitextloggedinout-desc' => 'Twee parserhoeken: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> um aandere tekste weer te geven aofhankelik van de anmeldstaotus van een gebruker',
+	'wikitextloggedinout-desc' => 'Twee parserhoeken: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> um aandere tekste weer te geven aofhankelik van de anmeldstaotus van n gebruker',
 );
 
 /** Dutch (Nederlands)

@@ -58,6 +58,13 @@ $messages['arz'] = array(
 	'wikitextloggedinout-desc' => 'خطافا محلل، <code>&lt;loggedin&gt;</code> و <code>&lt;loggedout&gt;</code> لعرض نص مختلف بالاعتماد على حالة دخول اليوزرز',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'wikitextloggedinout-desc' => "Dos etiquetes de sintaxis, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code> p'amosar un testu diferente según l'estáu de conexón del usuariu.",
+);
+
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */

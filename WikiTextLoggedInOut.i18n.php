@@ -163,7 +163,7 @@ $messages['fr'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
-	'wikitextloggedinout-desc' => 'Dous asociadores de análise, <code>&lt;loggedin&gt;</code> e mais <code>&lt;loggedout&gt;</code>, para amosar textos diferentes dependendo do estado do rexistro do usuario',
+	'wikitextloggedinout-desc' => 'Dous asociadores de análise, <code>&lt;loggedin&gt;</code> e mais <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependendo do estado do rexistro do usuario',
 );
 
 /** Swiss German (Alemannisch)

@@ -384,14 +384,14 @@ $messages['sli'] = array(
 	'wikitextloggedinout-desc' => 'Zwei Parser-Hooks, <code>&lt;loggedin&gt;</code> und <code>&lt;loggedout&gt;</code>, um unterschiedlichen Text für an- bzw. abgemeldete Benutzer anzuzeigen',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'wikitextloggedinout-desc' => 'Додаје парсеру две куке, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, које приказују различити текст у зависности од тога да ли је корисник улогован, односно излогован.',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(

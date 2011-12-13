@@ -21,7 +21,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'name' => 'WikiTextLoggedInOut',
 	'version' => '1.3',
 	'author' => array( 'Aaron Wright', 'David Pean', 'Jack Phoenix' ),
-	'url' => 'http://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut',
 	'descriptionmsg' => 'wikitextloggedinout-desc'
 );
 

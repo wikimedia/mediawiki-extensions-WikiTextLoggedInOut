@@ -271,6 +271,13 @@ $messages['ms'] = array(
 	'wikitextloggedinout-desc' => 'Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av brukerens innloggingsstatus",
+);
+
 /** Nedersaksisch (Nedersaksisch)
  * @author Servien
  */
@@ -290,13 +297,6 @@ $messages['nl'] = array(
  */
 $messages['nn'] = array(
 	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av innloggingsstatusen til brukaren",
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av brukerens innloggingsstatus",
 );
 
 /** Occitan (Occitan)
@@ -463,7 +463,7 @@ $messages['vec'] = array(
 	'wikitextloggedinout-desc' => "Dó hook del parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> par far védar testi difarenti a seconda del stato de login de l'utente",
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(

@@ -243,6 +243,13 @@ $messages['jv'] = array(
 	'wikitextloggedinout-desc' => 'Loro kait parser, <code>&lt;loggedin&gt;</code> lan <code>&lt;loggedout&gt;</code> sing nampilaké tèks sing béda gumantung status log mlebu panganggo',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'wikitextloggedinout-desc' => '사용자의 로그인 상태에 따라 다른 텍스트를 표시하는 <code>&lt;loggedin&gt;</code>과 <code>&lt;loggedout&gt;</code> 파서 후크 2개',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */

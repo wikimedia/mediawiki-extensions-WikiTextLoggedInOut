@@ -65,7 +65,7 @@ $messages['ast'] = array(
 	'wikitextloggedinout-desc' => "Dos etiquetes de sintaxis, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code> p'amosar un testu diferente según l'estáu de conexón del usuariu.",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -123,7 +123,7 @@ $messages['de'] = array(
 	'wikitextloggedinout-desc' => 'Zwei Parser-Hooks, <code>&lt;loggedin&gt;</code> und <code>&lt;loggedout&gt;</code>, um unterschiedlichen Text für an- bzw. abgemeldete Benutzer anzuzeigen',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -159,7 +159,7 @@ $messages['fr'] = array(
 	'wikitextloggedinout-desc' => 'Deux crochets du parseur, <code>&lt;loggedin&gt;</code> et <code>&lt;loggedout&gt;</code>, pour montrer un texte différent suivant le statut de connexion de l’utilisateur',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -194,7 +194,7 @@ $messages['hr'] = array(
 	'wikitextloggedinout-desc' => 'Dvije kuke parsera, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code>, koje prikazuju različit tekst ovisno o tome je li suradnik prijavljen',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -426,7 +426,7 @@ $messages['sv'] = array(
 	'wikitextloggedinout-desc' => 'Två parser hooks, <code>&lt;loggedin&gt;</code> och <code>&lt;loggedout&gt;</code> för att visa olika text beroende på användarens inloggningsstatus',
 );
 
-/** Silesian (Ślůnski)
+/** Silesian (ślůnski)
  * @author Lajsikonik
  */
 $messages['szl'] = array(

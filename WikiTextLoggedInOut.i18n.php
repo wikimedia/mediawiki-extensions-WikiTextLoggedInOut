@@ -65,7 +65,7 @@ $messages['ast'] = array(
 	'wikitextloggedinout-desc' => "Dos etiquetes de sintaxis, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code> p'amosar un testu diferente según l'estáu de conexón del usuariu.",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -278,7 +278,7 @@ $messages['ms'] = array(
 	'wikitextloggedinout-desc' => 'Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av brukerens innloggingsstatus",
 );
@@ -297,7 +297,7 @@ $messages['nl'] = array(
 	'wikitextloggedinout-desc' => 'Twee parserhooks: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> om andere tekst weer te geven afhankelijk van de aanmeldstatus van een gebruiker',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -389,14 +389,14 @@ $messages['sli'] = array(
 	'wikitextloggedinout-desc' => 'Zwei Parser-Hooks, <code>&lt;loggedin&gt;</code> und <code>&lt;loggedout&gt;</code>, um unterschiedlichen Text für an- bzw. abgemeldete Benutzer anzuzeigen',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'wikitextloggedinout-desc' => 'Додаје парсеру две куке, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, које приказују различити текст у зависности од тога да ли је корисник улогован, односно излогован.',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -482,14 +482,14 @@ $messages['vi'] = array(
 	'wikitextloggedinout-desc' => 'Hai hàm hook phân tích, <code>&lt;loggedin&gt;</code> và <code>&lt;loggedout&gt;</code> để hiển thị văn bản khác nhau tùy thuộc vào trạng thái đăng nhập của người dùng',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  */
 $messages['zh-hans'] = array(
 	'wikitextloggedinout-desc' => '使用<code>&lt;loggedin&gt;</code> 与 <code>&lt;loggedout&gt;</code>这两个解析挂钩，就可以根据用户登录的状态显示不同的文字',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Alexsh
  * @author Mark85296341
  */

@@ -278,7 +278,8 @@ $messages['ms'] = array(
 	'wikitextloggedinout-desc' => 'Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av brukerens innloggingsstatus",
 );
@@ -496,4 +497,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'wikitextloggedinout-desc' => '使用<code>&lt;loggedin&gt;</code> 與 <code>&lt;loggedout&gt;</code>這兩個解析掛鉤，就可以根據使用者登入的狀態顯示不同的文字',
 );
-

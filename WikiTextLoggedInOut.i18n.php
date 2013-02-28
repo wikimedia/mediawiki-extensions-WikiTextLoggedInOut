@@ -16,10 +16,11 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Fryed-peach
  * @author Purodha
+ * @author Shirayuki
  * @author Siebrand
  */
 $messages['qqq'] = array(
-	'wikitextloggedinout-desc' => '{{desc}}',
+	'wikitextloggedinout-desc' => '{{desc|name=Wiki Text Logged In Out|url=http://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut}}',
 );
 
 /** Afrikaans (Afrikaans)

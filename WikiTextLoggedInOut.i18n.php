@@ -265,6 +265,13 @@ $messages['lb'] = array(
 	'wikitextloggedinout-desc' => 'Zwou Parser_Klameren <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code> fir jeweils en aneren Text ze weisen je nodeem ob de Benotzer ageloggt ass oder net.',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'wikitextloggedinout-desc' => 'Duo kaik parser, <code>&lt;loggedin&gt;</code> jo <code>&lt;loggedout&gt;</code> nan manampilkan teks babedo badasakan status log masuak pangguno',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

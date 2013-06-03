@@ -286,13 +286,13 @@ $messages['ms'] = array(
 	'wikitextloggedinout-desc' => 'Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  */
 $messages['nb'] = array(
 	'wikitextloggedinout-desc' => "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av brukerens innloggingsstatus",
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -306,7 +306,7 @@ $messages['nl'] = array(
 	'wikitextloggedinout-desc' => 'Twee parserhooks: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> om andere tekst weer te geven afhankelijk van de aanmeldstatus van een gebruiker',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Frokor
  */
 $messages['nn'] = array(

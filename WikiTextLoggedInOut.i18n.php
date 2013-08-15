@@ -248,7 +248,7 @@ $messages['jv'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'wikitextloggedinout-desc' => '사용자의 로그인 상태에 따라 다른 텍스트를 표시하는 <code>&lt;loggedin&gt;</code>과 <code>&lt;loggedout&gt;</code> 파서 후크 2개',
+	'wikitextloggedinout-desc' => '사용자의 로그인 상태에 따라 다른 텍스트를 보여주는 <code>&lt;loggedin&gt;</code>과 <code>&lt;loggedout&gt;</code> 파서 후크 2개',
 );
 
 /** Colognian (Ripoarisch)

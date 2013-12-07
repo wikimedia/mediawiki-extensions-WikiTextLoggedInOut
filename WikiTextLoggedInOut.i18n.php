@@ -109,7 +109,7 @@ $messages['ca'] = array(
 	'wikitextloggedinout-desc' => "Dues etiquetes de sintaxi <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code> que mostren un text diferent en funció de l'estat de connexió de l'usuari.",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Matěj Grabovský
  * @author Mormegil
  */

@@ -276,7 +276,7 @@ $messages['min'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'wikitextloggedinout-desc' => 'Две варијанти на парсирање, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code> за приказ на различен текст зависно од тоа дали е најавен корисникот',
+	'wikitextloggedinout-desc' => 'Две варијанти на расчленување, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code> за приказ на различен текст зависно од тоа дали е најавен корисникот',
 );
 
 /** Malay (Bahasa Melayu)

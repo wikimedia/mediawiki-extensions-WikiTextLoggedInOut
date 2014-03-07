@@ -145,6 +145,13 @@ $messages['es'] = array(
 	'wikitextloggedinout-desc' => 'Dos funciones del analizador sintáctico, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependiendo del estado de registro del usuario',
 );
 
+/** Persian (فارسی)
+ * @author Ebraminio
+ */
+$messages['fa'] = array(
+	'wikitextloggedinout-desc' => 'دو قلاب تجزیه‌کننده،<code>&lt;loggedin&gt;</code> و <code>&lt;loggedout&gt;</code> برای نمایش متن متفاوت بسته به وضعیت ورود به سامانه کاربر',
+);
+
 /** Finnish (suomi)
  * @author Nike
  */

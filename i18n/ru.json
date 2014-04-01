@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Александр Сигачёв"
+        ]
+    },
+    "wikitextloggedinout-desc": "Два петли парсера, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code> для показа разного текста, в зависимости от состояния пользователя в системе"
+}

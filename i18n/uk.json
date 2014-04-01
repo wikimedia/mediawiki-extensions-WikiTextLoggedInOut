@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "AS",
+            "Prima klasy4na"
+        ]
+    },
+    "wikitextloggedinout-desc": "Дві парсерні „пастки“, <code>&lt;loggedin&gt;</code> та <code>&lt;loggedout&gt;</code>, які показують різний текст в залежності від стану авторизації користувача"
+}

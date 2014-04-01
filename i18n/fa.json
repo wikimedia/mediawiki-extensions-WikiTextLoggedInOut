@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ebraminio"
+        ]
+    },
+    "wikitextloggedinout-desc": "دو قلاب تجزیه‌کننده،<code>&lt;loggedin&gt;</code> و <code>&lt;loggedout&gt;</code> برای نمایش متن متفاوت بسته به وضعیت ورود به سامانه کاربر"
+}

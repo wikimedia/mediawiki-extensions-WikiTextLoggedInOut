@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Sp5uhe"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dodaje dwa haki parsera <code>&lt;loggedin&gt;</code> oraz <code>&lt;loggedout&gt;</code> pozwalające wyświetlać różne teksty w zależności od statusu zalogowania się użytkownika"
+}

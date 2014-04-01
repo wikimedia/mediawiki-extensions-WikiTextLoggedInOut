@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Meno25"
+        ]
+    },
+    "wikitextloggedinout-desc": "خطافا محلل، <code>&lt;loggedin&gt;</code> و <code>&lt;loggedout&gt;</code> لعرض نص مختلف بالاعتماد على حالة دخول المستخدمين"
+}

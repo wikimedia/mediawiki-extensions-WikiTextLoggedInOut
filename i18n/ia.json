@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "McDutchie"
+        ]
+    },
+    "wikitextloggedinout-desc": "Duo functiones pro le analysator syntactic, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, pro monstrar texto differente secundo le stato de identification del usator"
+}

@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Darth Kule"
+        ]
+    },
+    "wikitextloggedinout-desc": "Due hook del parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> per mostrare testi differenti a seconda dello stato di login dell'utente"
+}

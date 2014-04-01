@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cedric31"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dos croquets de parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, per far veire un tèxte diferent en foncion de l'estatut de connexion de l’utilizaire"
+}

@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Candalua"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dó hook del parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> par far védar testi difarenti a seconda del stato de login de l'utente"
+}

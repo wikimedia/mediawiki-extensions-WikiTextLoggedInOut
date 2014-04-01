@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Helix84"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dva prípojné body syntaktického analyzátora, <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code> na zobrazenie odlišného textu v závslosti na stave prihlásenia používateľa"
+}

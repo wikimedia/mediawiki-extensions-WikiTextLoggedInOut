@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hinstein"
+        ]
+    },
+    "wikitextloggedinout-desc": "መንቶ parser hooks <code>&lt;loggedin&gt;</code> እና <code>&lt;loggedout&gt;</code> የተጠቃሚውን መግቢያ (login) መቀመጫ (state) መሰረት በማድረግ የተለያዩ ፅሁፎችን ለማሳየት"
+}

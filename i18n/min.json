@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Iwan Novirion"
+        ]
+    },
+    "wikitextloggedinout-desc": "Duo kaik parser, <code>&lt;loggedin&gt;</code> jo <code>&lt;loggedout&gt;</code> nan manampilkan teks babedo badasakan status log masuak pangguno"
+}

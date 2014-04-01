@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Irwangatot"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dua kait parser, <code>&lt;loggedin&gt;</code> sarta <code>&lt;loggedout&gt;</code> anu mintonkeun teks anu béda dumasar status log asup pamaké"
+}

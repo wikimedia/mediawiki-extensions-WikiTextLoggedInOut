@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dbc334"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dve funkciji razčlenjevalnika, <code>&lt;loggedin&gt;</code> in <code>&lt;loggedout&gt;</code>, za prikazovanje različnega besedila glede na uporabnikovo prijavno stanje"
+}

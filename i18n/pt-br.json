@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Eduardo.mps"
+        ]
+    },
+    "wikitextloggedinout-desc": "Dois \"hooks\" do analisador (parser), <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, para mostrar diferentes textos dependendo do estado de autenticação do utilizador"
+}

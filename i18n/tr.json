@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Vito Genovese"
+        ]
+    },
+    "wikitextloggedinout-desc": "Kullanıcıların oturum açma durumuna bağlı olarak farklı metin göstermesi için <code>&lt;loggedin&gt;</code> ve <code>&lt;loggedout&gt;</code> olmak üzere iki ayırıcı çengel"
+}

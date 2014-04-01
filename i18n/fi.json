@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Nike"
+        ]
+    },
+    "wikitextloggedinout-desc": "Uudet elementit <code>&lt;loggedin&gt;</code> ja <code>&lt;loggedout&gt;</code>, joilla voi tuottaa eri tekstiä riippuen siitä, onko käyttäjä kirjautunut sisään vai ei."
+}

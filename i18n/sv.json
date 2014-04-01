@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Boivie"
+        ]
+    },
+    "wikitextloggedinout-desc": "Två parser hooks, <code>&lt;loggedin&gt;</code> och <code>&lt;loggedout&gt;</code> för att visa olika text beroende på användarens inloggningsstatus"
+}

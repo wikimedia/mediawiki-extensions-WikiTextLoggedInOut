@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "EugeneZelenko"
-        ]
-    },
-    "wikitextloggedinout-desc": "Дзьве працэдуры-перахопнікі парсэра, <code>&lt;loggedin&gt;</code> і <code>&lt;loggedout&gt;</code>, якія паказваюць розны тэкст у залежнасьці ад стану аўтарызацыі ўдзельніка"
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko"
+		]
+	},
+	"wikitextloggedinout-desc": "Дзьве працэдуры-перахопнікі парсэра, <code>&lt;loggedin&gt;</code> і <code>&lt;loggedout&gt;</code>, якія паказваюць розны тэкст у залежнасьці ад стану аўтарызацыі ўдзельніка"
 }

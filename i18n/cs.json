@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Matěj Grabovský",
-            "Mormegil"
-        ]
-    },
-    "wikitextloggedinout-desc": "Přidává dva přípojné body syntaktického analyzátoru, <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code>, které slouží k zobrazení textu lišícího se podle toho, zda je uživatel přihlášen"
+	"@metadata": {
+		"authors": [
+			"Matěj Grabovský",
+			"Mormegil"
+		]
+	},
+	"wikitextloggedinout-desc": "Přidává dva přípojné body syntaktického analyzátoru, <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code>, které slouží k zobrazení textu lišícího se podle toho, zda je uživatel přihlášen"
 }

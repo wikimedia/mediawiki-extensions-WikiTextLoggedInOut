@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gaoxuewei"
-        ]
-    },
-    "wikitextloggedinout-desc": "使用<code>&lt;loggedin&gt;</code> 与 <code>&lt;loggedout&gt;</code>这两个解析挂钩，就可以根据用户登录的状态显示不同的文字"
+	"@metadata": {
+		"authors": [
+			"Gaoxuewei"
+		]
+	},
+	"wikitextloggedinout-desc": "使用<code>&lt;loggedin&gt;</code> 与 <code>&lt;loggedout&gt;</code>这两个解析挂钩，就可以根据用户登录的状态显示不同的文字"
 }

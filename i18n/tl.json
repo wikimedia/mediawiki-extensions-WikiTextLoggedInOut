@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "AnakngAraw"
-        ]
-    },
-    "wikitextloggedinout-desc": "Mga pangawit na may dalawang banghay (''parser''), <code>&lt;loggedin&gt;</code> at <code>&lt;loggedout&gt;</code> para makapagpakita ng ibang teksto na nakasalalay sa kalagayan ng paglagda ng mga tagagamit"
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"wikitextloggedinout-desc": "Mga pangawit na may dalawang banghay (''parser''), <code>&lt;loggedin&gt;</code> at <code>&lt;loggedout&gt;</code> para makapagpakita ng ibang teksto na nakasalalay sa kalagayan ng paglagda ng mga tagagamit"
 }

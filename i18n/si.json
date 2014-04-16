@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Calcey"
-        ]
-    },
-    "wikitextloggedinout-desc": "වෙනස් පෙළ පරිශීලකයාගේ ප්‍රවිෂ්ට  තත්වය මත රඳා පවතින බව පෙන්වීමට  parser ‍දොරටු දෙකක්,<code>&lt;loggedin&gt;</code> සහ <code>&lt;loggedout&gt;</code>."
+	"@metadata": {
+		"authors": [
+			"Calcey"
+		]
+	},
+	"wikitextloggedinout-desc": "වෙනස් පෙළ පරිශීලකයාගේ ප්‍රවිෂ්ට  තත්වය මත රඳා පවතින බව පෙන්වීමට  parser ‍දොරටු දෙකක්,<code>&lt;loggedin&gt;</code> සහ <code>&lt;loggedout&gt;</code>."
 }

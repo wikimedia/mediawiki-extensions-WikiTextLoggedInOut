@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Servien"
-        ]
-    },
-    "wikitextloggedinout-desc": "Twee parserhoeken: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> um aandere tekste weer te geven aofhankelik van de anmeldstaotus van n gebruker"
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"wikitextloggedinout-desc": "Twee parserhoeken: <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> um aandere tekste weer te geven aofhankelik van de anmeldstaotus van n gebruker"
 }

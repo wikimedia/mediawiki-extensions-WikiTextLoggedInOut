@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Rotemliss"
-        ]
-    },
-    "wikitextloggedinout-desc": "שתי תגיות, <code>&lt;loggedin&gt;</code> ו־<code>&lt;loggedout&gt;</code>, המציגות טקסט שונה למשתמשים אנונימיים ולמשתמשים רשומים"
+	"@metadata": {
+		"authors": [
+			"Rotemliss"
+		]
+	},
+	"wikitextloggedinout-desc": "שתי תגיות, <code>&lt;loggedin&gt;</code> ו־<code>&lt;loggedout&gt;</code>, המציגות טקסט שונה למשתמשים אנונימיים ולמשתמשים רשומים"
 }

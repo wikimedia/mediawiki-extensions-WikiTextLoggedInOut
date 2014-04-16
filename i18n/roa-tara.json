@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joetaras"
-        ]
-    },
-    "wikitextloggedinout-desc": "Doje hook analizzature, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> fanne vedè teste differende a seconde d'u state de collegamende de l'utinde"
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"wikitextloggedinout-desc": "Doje hook analizzature, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> fanne vedè teste differende a seconde d'u state de collegamende de l'utinde"
 }

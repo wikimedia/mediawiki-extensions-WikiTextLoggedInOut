@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Lajsikonik"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dodowo dwa haki parsera <code>&lt;loggedin&gt;</code> a tyż <code>&lt;loggedout&gt;</code> kere dozwalajům wyśwjetlać roztůmajte teksty zależńy uod statusa zalugwańo śe użytkowńika"
+	"@metadata": {
+		"authors": [
+			"Lajsikonik"
+		]
+	},
+	"wikitextloggedinout-desc": "Dodowo dwa haki parsera <code>&lt;loggedin&gt;</code> a tyż <code>&lt;loggedout&gt;</code> kere dozwalajům wyśwjetlać roztůmajte teksty zależńy uod statusa zalugwańo śe użytkowńika"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dwě parserowej kokulce, <code>&lt;loggedin&gt;</code> and <code>&lt;loggedout&gt;</code>, aby se drugi tekst we wotwisnosći pśizjawjeńskego statusa wužywarja pokazał"
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"wikitextloggedinout-desc": "Dwě parserowej kokulce, <code>&lt;loggedin&gt;</code> and <code>&lt;loggedout&gt;</code>, aby se drugi tekst we wotwisnosći pśizjawjeńskego statusa wužywarja pokazał"
 }

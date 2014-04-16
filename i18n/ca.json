@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "SMP"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dues etiquetes de sintaxi <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code> que mostren un text diferent en funció de l'estat de connexió de l'usuari."
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"wikitextloggedinout-desc": "Dues etiquetes de sintaxi <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code> que mostren un text diferent en funció de l'estat de connexió de l'usuari."
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dragonòt"
-        ]
-    },
-    "wikitextloggedinout-desc": "Doi \"hook\" dël parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> për mosté test diferent basandse an slë stat ëd login dl'utent"
+	"@metadata": {
+		"authors": [
+			"Dragonòt"
+		]
+	},
+	"wikitextloggedinout-desc": "Doi \"hook\" dël parser, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code> për mosté test diferent basandse an slë stat ëd login dl'utent"
 }

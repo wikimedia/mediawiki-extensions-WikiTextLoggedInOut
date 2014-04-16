@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Robby"
-        ]
-    },
-    "wikitextloggedinout-desc": "Zwou Parser_Klameren <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code> fir jeweils en aneren Text ze weisen je nodeem ob de Benotzer ageloggt ass oder net."
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"wikitextloggedinout-desc": "Zwou Parser_Klameren <code>&lt;loggedin&gt;</code> a <code>&lt;loggedout&gt;</code> fir jeweils en aneren Text ze weisen je nodeem ob de Benotzer ageloggt ass oder net."
 }

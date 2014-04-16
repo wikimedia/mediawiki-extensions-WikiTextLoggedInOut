@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dani"
-        ]
-    },
-    "wikitextloggedinout-desc": "Két hook, <code>&lt;loggedin&gt;</code> és <code>&lt;loggedout&gt;</code> más szöveg megjelenítésére attól függően, hogy a szerkesztő be van-e jelentkezve, vagy sem"
+	"@metadata": {
+		"authors": [
+			"Dani"
+		]
+	},
+	"wikitextloggedinout-desc": "Két hook, <code>&lt;loggedin&gt;</code> és <code>&lt;loggedout&gt;</code> más szöveg megjelenítésére attól függően, hogy a szerkesztő be van-e jelentkezve, vagy sem"
 }

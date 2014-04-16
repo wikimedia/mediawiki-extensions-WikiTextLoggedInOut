@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Pyt"
-        ]
-    },
-    "wikitextloggedinout-desc": "Two Parser-Hooks, <code>&lt;loggedin&gt;</code> un <code>&lt;loggedout&gt;</code>, uum unnerscheedelken Text foar an- blw. oumäldede Benutsere antouwiesen"
+	"@metadata": {
+		"authors": [
+			"Pyt"
+		]
+	},
+	"wikitextloggedinout-desc": "Two Parser-Hooks, <code>&lt;loggedin&gt;</code> un <code>&lt;loggedout&gt;</code>, uum unnerscheedelken Text foar an- blw. oumäldede Benutsere antouwiesen"
 }

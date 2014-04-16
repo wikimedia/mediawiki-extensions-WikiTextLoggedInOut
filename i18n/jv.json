@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Pras"
-        ]
-    },
-    "wikitextloggedinout-desc": "Loro kait parser, <code>&lt;loggedin&gt;</code> lan <code>&lt;loggedout&gt;</code> sing nampilaké tèks sing béda gumantung status log mlebu panganggo"
+	"@metadata": {
+		"authors": [
+			"Pras"
+		]
+	},
+	"wikitextloggedinout-desc": "Loro kait parser, <code>&lt;loggedin&gt;</code> lan <code>&lt;loggedout&gt;</code> sing nampilaké tèks sing béda gumantung status log mlebu panganggo"
 }

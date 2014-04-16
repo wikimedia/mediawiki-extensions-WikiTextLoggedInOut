@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fryed-peach",
-            "Purodha",
-            "Shirayuki",
-            "Siebrand"
-        ]
-    },
-    "wikitextloggedinout-desc": "{{desc|name=Wiki Text Logged In Out|url=http://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut}}"
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Purodha",
+			"Shirayuki",
+			"Siebrand"
+		]
+	},
+	"wikitextloggedinout-desc": "{{desc|name=Wiki Text Logged In Out|url=http://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut}}"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mdupont"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dy parser grepa, <code>&lt;loggedin&gt;</code> dhe <code>&lt;loggedout&gt;</code> për të treguar tekst të ndryshme në varësi të përdoruesit ' login shtetit"
+	"@metadata": {
+		"authors": [
+			"Mdupont"
+		]
+	},
+	"wikitextloggedinout-desc": "Dy parser grepa, <code>&lt;loggedin&gt;</code> dhe <code>&lt;loggedout&gt;</code> për të treguar tekst të ndryshme në varësi të përdoruesit ' login shtetit"
 }

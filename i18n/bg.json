@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "DCLXVI"
-        ]
-    },
-    "wikitextloggedinout-desc": "Добавя две куки в парсета, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, чрез които се показва различен текст в зависимост дали потребителят е влязъл или не"
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"wikitextloggedinout-desc": "Добавя две куки в парсета, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, чрез които се показва различен текст в зависимост дали потребителят е влязъл или не"
 }

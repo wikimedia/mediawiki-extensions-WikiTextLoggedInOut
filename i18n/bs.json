@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "CERminator"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dvije parserske kuke, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code> koje prikazuju različite tekstove u zavisnosti od korisničkog statusa prijave"
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"wikitextloggedinout-desc": "Dvije parserske kuke, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code> koje prikazuju različite tekstove u zavisnosti od korisničkog statusa prijave"
 }

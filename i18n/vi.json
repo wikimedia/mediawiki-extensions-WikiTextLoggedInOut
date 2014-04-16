@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Vinhtantran"
-        ]
-    },
-    "wikitextloggedinout-desc": "Hai hàm hook phân tích, <code>&lt;loggedin&gt;</code> và <code>&lt;loggedout&gt;</code> để hiển thị văn bản khác nhau tùy thuộc vào trạng thái đăng nhập của người dùng"
+	"@metadata": {
+		"authors": [
+			"Vinhtantran"
+		]
+	},
+	"wikitextloggedinout-desc": "Hai hàm hook phân tích, <code>&lt;loggedin&gt;</code> và <code>&lt;loggedout&gt;</code> để hiển thị văn bản khác nhau tùy thuộc vào trạng thái đăng nhập của người dùng"
 }

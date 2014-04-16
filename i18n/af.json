@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Naudefj"
-        ]
-    },
-    "wikitextloggedinout-desc": "Twee ontlederhoeke <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> om te wys of 'n gebruiker aangeteken is al dan nie"
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"wikitextloggedinout-desc": "Twee ontlederhoeke <code>&lt;loggedin&gt;</code> en <code>&lt;loggedout&gt;</code> om te wys of 'n gebruiker aangeteken is al dan nie"
 }

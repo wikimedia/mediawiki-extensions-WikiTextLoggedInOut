@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fryed-peach"
-        ]
-    },
-    "wikitextloggedinout-desc": "利用者のログイン状態によって異なる文章を表示するための2つのパーサーフック <code>&lt;loggedin&gt;</code> と <code>&lt;loggedout&gt;</code> を追加する"
+	"@metadata": {
+		"authors": [
+			"Fryed-peach"
+		]
+	},
+	"wikitextloggedinout-desc": "利用者のログイン状態によって異なる文章を表示するための2つのパーサーフック <code>&lt;loggedin&gt;</code> と <code>&lt;loggedout&gt;</code> を追加する"
 }

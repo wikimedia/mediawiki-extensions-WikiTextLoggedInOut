@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michaello"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dodaje parseru dve kuke, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code>, koje prikazuju različiti tekst u zavisnosti od toga da li je korisnik ulogovan, odnosno izlogovan."
+	"@metadata": {
+		"authors": [
+			"Michaello"
+		]
+	},
+	"wikitextloggedinout-desc": "Dodaje parseru dve kuke, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code>, koje prikazuju različiti tekst u zavisnosti od toga da li je korisnik ulogovan, odnosno izlogovan."
 }

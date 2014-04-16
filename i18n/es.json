@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Sanbec"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dos funciones del analizador sintáctico, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependiendo del estado de registro del usuario"
+	"@metadata": {
+		"authors": [
+			"Sanbec"
+		]
+	},
+	"wikitextloggedinout-desc": "Dos funciones del analizador sintáctico, <code>&lt;loggedin&gt;</code> y <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependiendo del estado de registro del usuario"
 }

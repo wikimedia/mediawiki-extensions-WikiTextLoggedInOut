@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Hamilton Abreu",
-            "Malafaya"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dois \"hooks\" do analisador sintáctico, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependendo do estado de autenticação do utilizador"
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu",
+			"Malafaya"
+		]
+	},
+	"wikitextloggedinout-desc": "Dois \"hooks\" do analisador sintáctico, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, para mostrar textos diferentes dependendo do estado de autenticação do utilizador"
 }

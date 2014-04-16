@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Frokor"
-        ]
-    },
-    "wikitextloggedinout-desc": "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av innloggingsstatusen til brukaren"
+	"@metadata": {
+		"authors": [
+			"Frokor"
+		]
+	},
+	"wikitextloggedinout-desc": "To ''parser hooks'', <code>&lt;loggedin&gt;</code> og <code>&lt;loggedout&gt;</code> for å vise forskjellig tekst avhengig av innloggingsstatusen til brukaren"
 }

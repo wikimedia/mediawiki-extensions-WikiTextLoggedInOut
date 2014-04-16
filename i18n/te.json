@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kiranmayee",
-            "Veeven"
-        ]
-    },
-    "wikitextloggedinout-desc": "వాడుకరి యొక్క ప్రవేశపు స్థితిని అనుసరించి వేర్వేరు సందేశాలని చూపించుటకు రెండు పార్సర్ కొక్కేలు, <code>&lt;loggedin&gt;</code> మరియు <code>&lt;loggedout&gt;</code>"
+	"@metadata": {
+		"authors": [
+			"Kiranmayee",
+			"Veeven"
+		]
+	},
+	"wikitextloggedinout-desc": "వాడుకరి యొక్క ప్రవేశపు స్థితిని అనుసరించి వేర్వేరు సందేశాలని చూపించుటకు రెండు పార్సర్ కొక్కేలు, <code>&lt;loggedin&gt;</code> మరియు <code>&lt;loggedout&gt;</code>"
 }

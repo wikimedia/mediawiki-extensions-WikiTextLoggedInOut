@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Anakmalaysia"
-        ]
-    },
-    "wikitextloggedinout-desc": "Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna"
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"wikitextloggedinout-desc": "Dua penyangkuk penghurai, <code>&lt;loggedin&gt;</code> dan <code>&lt;loggedout&gt;</code> untuk memaparkan teks yang berbeza mengikut keadaan log masuk pengguna"
 }

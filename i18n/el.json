@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Omnipaedista"
-        ]
-    },
-    "wikitextloggedinout-desc": "Δύο άγγιστρα λεξιαναλυτή, <code>&lt;loggedin&gt;</code> και <code>&lt;loggedout&gt;</code>, για να προβάλλουν διαφορετικό κείμενο ανάλογα με την κατάσταση σύνδεσης των χρηστών"
+	"@metadata": {
+		"authors": [
+			"Omnipaedista"
+		]
+	},
+	"wikitextloggedinout-desc": "Δύο άγγιστρα λεξιαναλυτή, <code>&lt;loggedin&gt;</code> και <code>&lt;loggedout&gt;</code>, για να προβάλλουν διαφορετικό κείμενο ανάλογα με την κατάσταση σύνδεσης των χρηστών"
 }

@@ -1,6 +1,6 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "wikitextloggedinout-desc": "Two parser hooks, <code>&lt;loggedin&gt;</code> and <code>&lt;loggedout&gt;</code> to show different text depending on the users' login state"
+	"@metadata": {
+		"authors": []
+	},
+	"wikitextloggedinout-desc": "Two parser hooks, <code>&lt;loggedin&gt;</code> and <code>&lt;loggedout&gt;</code> to show different text depending on the users' login state"
 }

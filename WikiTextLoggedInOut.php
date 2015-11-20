@@ -18,39 +18,14 @@
 $wgExtensionCredits['parserhook'][] = array(
 	'path' => __FILE__,
 	'name' => 'WikiTextLoggedInOut',
-	'version' => '1.4.0',
+	'version' => '1.5.0',
 	'author' => array( 'Aaron Wright', 'David Pean', 'Jack Phoenix' ),
 	'url' => 'https://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut',
 	'descriptionmsg' => 'wikitextloggedinout-desc'
 );
 
-$dir = dirname( __FILE__ ) . '/';
 $wgMessagesDirs['WikiTextLoginInOut'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['WikiTextLoginInOut'] = $dir . 'WikiTextLoggedInOut.i18n.php';
 
-$wgHooks['ParserFirstCallInit'][] = 'efWikiTextLoggedInOut';
-function efWikiTextLoggedInOut( &$parser ) {
-	$parser->setHook( 'loggedin', 'outputLoggedInText' );
-	$parser->setHook( 'loggedout', 'outputLoggedOutText' );
-	return true;
-}
+$wgAutoloadClasses['WikiTextLoggedInOut'] = __DIR__ . '/WikiTextLoggedInOut.class.php';
 
-function outputLoggedInText( $input, $args, $parser, $frame ) {
-	global $wgUser;
-
-	if( $wgUser->isLoggedIn() ) {
-		return $parser->recursiveTagParse( $input, $frame );
-	}
-
-	return '';
-}
-
-function outputLoggedOutText( $input, $args, $parser, $frame ) {
-	global $wgUser;
-
-	if( !$wgUser->isLoggedIn() ) {
-		return $parser->recursiveTagParse( $input, $frame );
-	}
-
-	return '';
-}
+$wgHooks['ParserFirstCallInit'][] = 'WikiTextLoggedInOut::registerTags';

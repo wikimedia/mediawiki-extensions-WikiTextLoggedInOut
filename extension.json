@@ -1,0 +1,27 @@
+{
+	"name": "WikiTextLoggedInOut",
+	"version": "1.5.0",
+	"author": [
+		"Aaron Wright",
+		"David Pean",
+		"Jack Phoenix"
+	],
+	"license-name": "GPL-2.0+",
+	"url": "https://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut",
+	"descriptionmsg": "wikitextloggedinout-desc",
+	"type": "parserhook",
+	"MessagesDirs": {
+		"WikiTextLoggedInOut": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"WikiTextLoggedInOut": "WikiTextLoggedInOut.class.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": [
+			"WikiTextLoggedInOut::registerTags"
+		]
+	},
+	"manifest_version": 1
+}

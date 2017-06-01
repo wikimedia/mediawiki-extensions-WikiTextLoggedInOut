@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Grondin",
-			"PieRRoMaN"
+			"PieRRoMaN",
+			"Urhixidur"
 		]
 	},
-	"wikitextloggedinout-desc": "Deux crochets du parseur, <code>&lt;loggedin&gt;</code> et <code>&lt;loggedout&gt;</code>, pour montrer un texte différent suivant le statut de connexion de l’utilisateur"
+	"wikitextloggedinout-desc": "Deux crochets de l’analyseur, <code>&lt;loggedin&gt;</code> et <code>&lt;loggedout&gt;</code>, pour montrer un texte différent suivant le statut de connexion de l’utilisateur"
 }

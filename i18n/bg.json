@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"StanProg"
 		]
 	},
-	"wikitextloggedinout-desc": "Добавя две куки в парсета, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, чрез които се показва различен текст в зависимост дали потребителят е влязъл или не"
+	"wikitextloggedinout-desc": "Добавя две куки в анализатора, <code>&lt;loggedin&gt;</code> и <code>&lt;loggedout&gt;</code>, чрез които се показва различен текст в зависимост дали потребителят е влязъл или не"
 }

@@ -23,9 +23,7 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedInText( $input, $args, $parser, $frame ) {
-		global $wgUser;
-
-		if ( $wgUser->isLoggedIn() ) {
+		if ( $parser->getUser()->isLoggedIn() ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 
@@ -33,9 +31,7 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedOutText( $input, $args, $parser, $frame ) {
-		global $wgUser;
-
-		if ( !$wgUser->isLoggedIn() ) {
+		if ( !$parser->getUser()->isLoggedIn() ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 

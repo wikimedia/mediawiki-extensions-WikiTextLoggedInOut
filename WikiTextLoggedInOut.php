@@ -10,16 +10,15 @@
  * @author Aaron Wright
  * @author David Pean
  * @author Jack Phoenix
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @license GPL-2.0-or-later
  * @link https://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut Documentation
  */
 
 class WikiTextLoggedInOut {
 
 	public static function registerTags( &$parser ) {
-		$parser->setHook( 'loggedin', array( __CLASS__, 'outputLoggedInText' ) );
-		$parser->setHook( 'loggedout', array( __CLASS__, 'outputLoggedOutText' ) );
-		return true;
+		$parser->setHook( 'loggedin', [ __CLASS__, 'outputLoggedInText' ] );
+		$parser->setHook( 'loggedout', [ __CLASS__, 'outputLoggedOutText' ] );
 	}
 
 	public static function outputLoggedInText( $input, $args, $parser, $frame ) {

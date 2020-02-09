@@ -16,7 +16,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"WikiTextLoggedInOut": "WikiTextLoggedInOut.class.php"
+		"WikiTextLoggedInOut": "WikiTextLoggedInOut.php"
 	},
 	"Hooks": {
 		"ParserFirstCallInit": [

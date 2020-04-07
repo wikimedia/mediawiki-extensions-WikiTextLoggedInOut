@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Santu",
-			"Pippinu"
+			"Pippinu",
+			"Santu"
 		]
 	},
 	"wikitextloggedinout-desc": "Dui hook di l'analizzaturi sintàtticu, <code>&lt;loggedin&gt;</code> e <code>&lt;loggedout&gt;</code>, p'ammustrari testi diffirenti a sècunnu dû statu di trasuta di l'utenti"

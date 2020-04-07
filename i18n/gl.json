@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño",
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
 	"wikitextloggedinout-desc": "Dous asociadores de análise, <code>&lt;loggedin&gt;</code> e mais <code>&lt;loggedout&gt;</code>, para amosar textos diferentes dependendo do estado do rexistro do usuario"

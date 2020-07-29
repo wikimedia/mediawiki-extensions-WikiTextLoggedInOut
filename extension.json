@@ -10,6 +10,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:WikiTextLoggedInOut",
 	"descriptionmsg": "wikitextloggedinout-desc",
 	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.34.0"
+	},
 	"MessagesDirs": {
 		"WikiTextLoggedInOut": [
 			"i18n"

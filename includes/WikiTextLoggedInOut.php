@@ -22,7 +22,13 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedInText( $input, $args, $parser, $frame ) {
-		if ( $parser->getUser()->isRegistered() ) {
+		if ( method_exists( $parser, 'getUserIdentity' ) ) {
+			// MW 1.36+
+			$user = $parser->getUserIdentity();
+		} else {
+			$user = $parser->getUser();
+		}
+		if ( $user->isRegistered() ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 
@@ -30,7 +36,13 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedOutText( $input, $args, $parser, $frame ) {
-		if ( !$parser->getUser()->isRegistered() ) {
+		if ( method_exists( $parser, 'getUserIdentity' ) ) {
+			// MW 1.36+
+			$user = $parser->getUserIdentity();
+		} else {
+			$user = $parser->getUser();
+		}
+		if ( !$user->isRegistered() ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 

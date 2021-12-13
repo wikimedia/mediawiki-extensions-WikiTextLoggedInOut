@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tivek"
+			"Tivek",
+			"Ivi104"
 		]
 	},
-	"wikitextloggedinout-desc": "Dvije kuke parsera, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code>, koje prikazuju različit tekst ovisno o tome je li suradnik prijavljen"
+	"wikitextloggedinout-desc": "Dva parserska okidača, <code>&lt;loggedin&gt;</code> i <code>&lt;loggedout&gt;</code>, koji prikazuju različit tekst ovisno o tome je li suradnik prijavljen"
 }

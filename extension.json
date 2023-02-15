@@ -1,6 +1,6 @@
 {
 	"name": "WikiTextLoggedInOut",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"author": [
 		"Aaron Wright",
 		"David Pean",
@@ -11,7 +11,7 @@
 	"descriptionmsg": "wikitextloggedinout-desc",
 	"type": "parserhook",
 	"requires": {
-		"MediaWiki": ">= 1.34.0"
+		"MediaWiki": ">= 1.39.0"
 	},
 	"MessagesDirs": {
 		"WikiTextLoggedInOut": [
@@ -22,9 +22,8 @@
 		"WikiTextLoggedInOut": "includes/WikiTextLoggedInOut.php"
 	},
 	"Hooks": {
-		"ParserFirstCallInit": [
-			"WikiTextLoggedInOut::registerTags"
-		]
+		"ParserFirstCallInit": "WikiTextLoggedInOut::registerTags",
+		"ParserOptionsRegister": "WikiTextLoggedInOut::onParserOptionsRegister"
 	},
 	"manifest_version": 1
 }

@@ -22,13 +22,9 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedInText( $input, $args, $parser, $frame ) {
-		if ( method_exists( $parser, 'getUserIdentity' ) ) {
-			// MW 1.36+
-			$user = $parser->getUserIdentity();
-		} else {
-			$user = $parser->getUser();
-		}
-		if ( $user->isRegistered() ) {
+		$parserOptions = $parser->getOptions();
+
+		if ( $parserOptions->getOption( 'loggedin' ) ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 
@@ -36,17 +32,28 @@ class WikiTextLoggedInOut {
 	}
 
 	public static function outputLoggedOutText( $input, $args, $parser, $frame ) {
-		if ( method_exists( $parser, 'getUserIdentity' ) ) {
-			// MW 1.36+
-			$user = $parser->getUserIdentity();
-		} else {
-			$user = $parser->getUser();
-		}
-		if ( !$user->isRegistered() ) {
+		$parserOptions = $parser->getOptions();
+
+		if ( !$parserOptions->getOption( 'loggedin' ) ) {
 			return $parser->recursiveTagParse( $input, $frame );
 		}
 
 		return '';
+	}
+
+	/**
+	 * Handler for the ParserOptionsRegister hook to add a "loggedin" option for cache-splitting
+	 *
+	 * @param array &$defaults Options and their defaults
+	 * @param array &$inCacheKey Whether each option splits the parser cache
+	 * @param array &$lazyLoad Initializers for lazy-loaded options
+	 */
+	public static function onParserOptionsRegister( &$defaults, &$inCacheKey, &$lazyLoad ) {
+		$defaults['loggedin'] = false;
+		$inCacheKey['loggedin'] = true;
+		$lazyLoad['loggedin'] = static function ( ParserOptions $options ) {
+			return $options->getUserIdentity()->isRegistered();
+		};
 	}
 
 }

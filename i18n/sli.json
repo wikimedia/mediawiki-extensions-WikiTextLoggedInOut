@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jonny84"
+			"Jonny84",
+			"Äberlausitzer"
 		]
 	},
-	"wikitextloggedinout-desc": "Zwei Parser-Hooks, <code>&lt;loggedin&gt;</code> und <code>&lt;loggedout&gt;</code>, um unterschiedlichen Text für an- bzw. abgemeldete Benutzer anzuzeigen"
+	"wikitextloggedinout-desc": "Zwee Parser-Hooks, <code>&lt;loggedin&gt;</code> und <code>&lt;loggedout&gt;</code>, im underschiedlicha Text fer oa- bzw. oabgemeldete Benutzer oazuzeiga"
 }

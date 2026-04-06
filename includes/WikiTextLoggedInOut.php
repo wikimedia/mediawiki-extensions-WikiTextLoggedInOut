@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+
 /**
  * WikiTextLoggedInOut extension
  * Defines two new parser hooks, <loggedin> and <loggedout>
@@ -52,7 +55,8 @@ class WikiTextLoggedInOut {
 		$defaults['loggedin'] = false;
 		$inCacheKey['loggedin'] = true;
 		$lazyLoad['loggedin'] = static function ( ParserOptions $options ) {
-			return $options->getUserIdentity()->isRegistered();
+			$userIdentityUtils = MediaWikiServices::getInstance()->getUserIdentityUtils();
+			return $userIdentityUtils->isNamed( $options->getUserIdentity() );
 		};
 	}
 

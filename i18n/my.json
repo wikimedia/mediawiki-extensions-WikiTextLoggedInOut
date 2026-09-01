@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kalixlouiis"
+		]
+	},
+	"wikitextloggedinout-desc": "အသုံးပြုသူများ၏ အကောင့်ဝင်ရောက်ထားမှု အခြေအနေအလိုက် စာသားအကွဲကွဲဖြင့် ပြသရန် <code>&lt;loggedin&gt;</code> နှင့် <code>&lt;loggedout&gt;</code> ဟူသော parser hook နှစ်ခု"
+}
